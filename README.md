@@ -1,2 +1,2 @@
-# Thirdepo
+# Thirdrepo
 Machine Learning Prediction lab
